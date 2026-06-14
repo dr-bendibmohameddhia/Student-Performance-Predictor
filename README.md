@@ -210,18 +210,18 @@ MIT License — built for educational and research purposes.
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](student_performance_predictor\assets\Dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ### Predict Student
-![Predict Student](student_performance_predictor\assets\predict student.png)
+![Predict Student](assets/predict student.png)
 
 ### Analytics       
-![Analytics](student_performance_predictor\assets\analytics.png)
+![Analytics](assets/analytics.png)
 
 ### Explainability
-![Explainability](student_performance_predictor\assets\explainability.png)
+![Explainability](assets/explainability.png)
 
 ### Model Comparaison
-![Model comparaison](student_performance_predictor\assets\Model Comparaison.png)
+![Model comparaison](assets/model comparaison.png)
 
 Developed by BENDIB Mohamed Dhia
