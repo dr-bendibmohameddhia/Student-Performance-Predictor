@@ -1,0 +1,67 @@
+{
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.9575,
+      "auc": 0.9828,
+      "f1": 0.9745
+    },
+    "Random Forest": {
+      "accuracy": 0.95,
+      "auc": 0.9741,
+      "f1": 0.9701
+    },
+    "XGBoost": {
+      "accuracy": 0.935,
+      "auc": 0.9758,
+      "f1": 0.9607
+    },
+    "LightGBM": {
+      "accuracy": 0.94,
+      "auc": 0.9757,
+      "f1": 0.9639
+    }
+  },
+  "best_model": "Logistic Regression",
+  "feature_cols": [
+    "age",
+    "gender",
+    "address",
+    "family_size",
+    "parent_status",
+    "mother_education",
+    "father_education",
+    "mother_job",
+    "father_job",
+    "reason",
+    "guardian",
+    "travel_time",
+    "study_time",
+    "past_failures",
+    "school_support",
+    "family_support",
+    "paid_classes",
+    "activities",
+    "nursery",
+    "higher_education_goal",
+    "internet_access",
+    "romantic_relationship",
+    "family_relations",
+    "free_time",
+    "go_out",
+    "workday_alcohol",
+    "weekend_alcohol",
+    "health_status",
+    "absences",
+    "attendance_rate",
+    "grade_period1",
+    "grade_period2",
+    "parent_edu_avg",
+    "alcohol_total",
+    "support_score",
+    "academic_history",
+    "grade_improvement",
+    "absence_category",
+    "study_efficiency",
+    "at_risk_score"
+  ]
+}
