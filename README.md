@@ -213,7 +213,7 @@ MIT License — built for educational and research purposes.
 ![Dashboard](assets/Dashboard.png)
 
 ### Predict Student
-![Predict Student](assets/predict student.png)
+![Predict Student](assets/predictstudent.png)
 
 ### Analytics       
 ![Analytics](assets/analytics.png)
@@ -222,6 +222,6 @@ MIT License — built for educational and research purposes.
 ![Explainability](assets/explainability.png)
 
 ### Model Comparaison
-![Model comparaison](assets/model comparaison.png)
+![Model comparaison](assets/modelcomparaison.png)
 
 Developed by BENDIB Mohamed Dhia
